@@ -1,0 +1,18 @@
+DutaResto
+JL. Mujair Raya Bambu Apus
+Pamulang Tanggerang Selatan
+--------------------------------------
+Nama Barang	Qty	Harga	Total
+--------------------------------------
+Burger Special	2	5000	10000
+Teh Tawar Panas	1	2000	 2000
+--------------------------------------
+Sub Total			12000
+Diskon				 1500
+Total Bayar			10500
+
+Pembayaran			15000
+Kembali				 4500
+
+Terima kasih atas kunjungannya
+resto.dutasoft.co.id

@@ -1,0 +1,11 @@
+{
+  "albumCover":"img/thumbs/03.jpg",
+  "albumTitle":"Lost Sounds",
+  "albumAuthor":"Creative Commons",
+  "soundcloudEnabled":true,
+  "soundcloudClientID":"e461f32654378ea6c132ac966a698bf2",
+  "soundcloudSet":"https://soundcloud.com/user679245514/sets/dutaresto",
+  "soundcloudOverwrite":true,
+  "autoPlay":true,
+  "shuffle":true
+}
